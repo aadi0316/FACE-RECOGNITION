@@ -1,0 +1,26 @@
+ANSHUL_KUMAR
+Angelina Jolie
+Brad Pitt
+Celebrity Faces Dataset
+DIVYANSH_SINGH
+Denzel Washington
+Hugh Jackman
+Jennifer Lawrence
+Johnny Depp
+Kate Winslet
+Leonardo DiCaprio
+Megan Fox
+Natalie Portman
+Nicole Kidman
+Robert Downey Jr
+SANYAM_GARG
+SANYA_JAISWAL
+SHIVANG_ARYA
+SHUBH_BAJPAI
+SHUBH_SHARMA
+Sandra Bullock
+Scarlett Johansson
+Tom Cruise
+Tom Hanks
+Will Smith
+shubh
