@@ -74,7 +74,8 @@ NumPy: Numerical array manipulation.
 Haar Cascades: Frontal face detection.
 
 👤 Author
-Aditya - GitHub Profile
+Name - Aditya Rana
+Email - adityarana4010@gmail.com
 
 Developed for educational purposes in Computer Vision and Deep Learning.
 
