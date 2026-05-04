@@ -1,4 +1,5 @@
 **Face Recognition Attendance System**
+
 **Face Recognition Attendance System** is an innovative application designed to automate attendance logging in real-time. By leveraging cutting-edge technologies like AI, deep learning, and computer vision, this app provides accurate face recognition, automated attendance marking, and real-time visual feedback.
 
 ##Features
